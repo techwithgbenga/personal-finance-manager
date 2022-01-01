@@ -36,4 +36,4 @@ def generate_monthly_report(month):
         plt.axis('equal')  # Equal aspect ratio ensures the pie chart is circular.
         plt.show()
     else:
-        print("No expense data available for this month to generate a chart.")
+        print("No expense data available for this month to generate a chart")
