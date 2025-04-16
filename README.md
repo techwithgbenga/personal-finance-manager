@@ -21,7 +21,7 @@ personal_finance_manager/ ├── finance_manager.py # Main entry point for th
 1. **Clone the Repository:**
 ```bash
    git clone https://github.com/techwithgbenga/personal-finance-manager.git
-   cd personal_finance_manager
+   cd personal-finance-manager
 ```
 2. Install Dependencies:
 ```bash
