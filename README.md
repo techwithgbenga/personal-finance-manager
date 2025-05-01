@@ -11,17 +11,17 @@ A command-line application to manage your personal finances. This tool allows yo
 - **CLI Interface:** Easy-to-use command-line interface for all operations.
 
 ## File Structure
-
+```plain
 personal_finance_manager/ ├── finance_manager.py # Main entry point for the application ├── database.py # Database operations using SQLite ├── reports.py # Generation of financial reports and visualizations ├── cli.py # Command-line interface for user interactions ├── requirements.txt # List of dependencies └── README.md # Project documentation
-
+```
 ---
 
 ## Setup & Installation
 
 1. **Clone the Repository:**
 ```bash
-   git clone https://github.com/techwithgbenga/personal-finance-manager.git
-   cd personal-finance-manager
+   git clone https://github.com/techwithgbenga/personal_finance_manager.git
+   cd personal_finance_manager
 ```
 2. Install Dependencies:
 ```bash
