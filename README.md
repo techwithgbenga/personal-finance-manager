@@ -12,7 +12,13 @@ A command-line application to manage your personal finances. This tool allows yo
 
 ## File Structure
 ```plaintext
-personal_finance_manager/ ├── finance_manager.py # Main entry point for the application ├── database.py # Database operations using SQLite ├── reports.py # Generation of financial reports and visualizations ├── cli.py # Command-line interface for user interactions ├── requirements.txt # List of dependencies └── README.md # Project documentation
+personal_finance_manager/
+├── finance_manager.py # Main entry point for the application
+├── database.py # Database operations using SQLite
+├── reports.py # Generation of financial reports and visualizations
+├── cli.py # Command-line interface for user interactions
+├── requirements.txt # List of dependencies
+└── README.md # Project documentation
 ```
 ---
 
